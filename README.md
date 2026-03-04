@@ -1,9 +1,21 @@
-# EDD2026-2-Practica-1
+Práctica 1 (Picross / Nonogram) - Estructuras de Datos
 
-Para trabajar sobre esta base, tienen que hacer un fork de este repositorio y trabajar sobre él.
+Nombre completo: Hyandi Maya Barrientos Quiroz
+Número de cuenta: 322227840
+Correo electrónico: maiyto.16@ciencias.unam.mx
 
-Modifiquen el archivo Tablero.java para agregar los métodos que consideren necesarios
+Funcionamiento del juego:
 
+En esta práctica se implementa una versión sencilla del juego Picross (Nonogram) usando arreglos como estructura principal.
 
-Comentarios
-Recuerden que su código debe de ir bien documentado. Y recuerden separar bien en clases.
+Decidi implementar seis tableros con una solución fija, cuando inicia el juego se elige uno al azar,a partir de ese tablero el programa genera automáticamente las pistas de cada fila y cada columna.
+
+El usuario juega desde la consola ingresando:
+
+- fila
+- columna
+- Decidir si marcar o borrar 
+
+Después de cada jugada el tablero se vuelve a mostrar actualizado junto con las pistas.
+
+El programa compara el tablero del jugador con la solución y cuando ambos coinciden ganas.
