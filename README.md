@@ -1,7 +1,9 @@
 Práctica 1 (Picross / Nonogram) - Estructuras de Datos
 
 Nombre completo: Hyandi Maya Barrientos Quiroz
+
 Número de cuenta: 322227840
+
 Correo electrónico: maiyto.16@ciencias.unam.mx
 
 Funcionamiento del juego:
